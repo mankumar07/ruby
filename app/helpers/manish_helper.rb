@@ -1,0 +1,2 @@
+module ManishHelper
+end
